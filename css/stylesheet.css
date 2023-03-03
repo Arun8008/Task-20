@@ -1,0 +1,18 @@
+     body{
+		text-align:center;
+		  
+		 }
+		 .password{
+			 
+			 padding:10px 30px;
+		 }
+		 
+	   #btn{ 
+		
+	    padding:10px 40px;
+		background-color:#00bcd4;
+		font-size:20px;
+		border-radius:8px;
+		border:0;
+		color:#fff;
+	  }
